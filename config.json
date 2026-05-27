@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustervelete",
+        "uuid": 18273976,
+        "checksum": "ywyows"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
